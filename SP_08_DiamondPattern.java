@@ -37,7 +37,7 @@ public class SP_08_DiamondPattern {
 
 For n = 6 -->
 
-         * 
+          * 
         * * * 
       * * * * * 
     * * * * * * * 
