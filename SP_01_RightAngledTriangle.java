@@ -10,7 +10,7 @@ public class SP_01_RightAngledTriangle {
         System.out.println("\nRight-Angled Triangle Pattern:\n");
         for(int i = 1; i <= n; i++){
             for(int j = 1; j <= i; j++){
-                System.out.print("* ");
+                System.out.print(" *");
             }
             System.out.println();
         }
