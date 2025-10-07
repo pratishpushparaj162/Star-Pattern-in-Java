@@ -18,7 +18,7 @@ public class SP_11_HollowPyramidPattern {
             //  stars for the first and last row
             if (i == 1 || i== n) {
                 for (int j = 1; j <=i; j++) {
-                    System.out.print("* ");
+                    System.out.print(" * ");
                 }
             } 
             else {
