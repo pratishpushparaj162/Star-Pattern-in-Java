@@ -28,7 +28,7 @@ public class SP_14_P_Pattern {
                 }
 
                 // stars (right boundary)
-                System.out.print("*");
+                System.out.print(" *");
             }
             System.out.println();
         }
