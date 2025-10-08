@@ -19,7 +19,7 @@ public class SP_13_K_Pattern {
         // second half
         for (int i=2; i<=n; i++) { 
             for(int k=1; k<=i; k++){
-               System.out.print("* ");
+               System.out.print(" * ");
             }
             System.out.println();
         }
