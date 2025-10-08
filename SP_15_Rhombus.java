@@ -10,7 +10,7 @@ public class SP_15_Rhombus {
 
         for(int i=1; i<=n; i++){
            
-            for(int k=1; k<i; k++){
+            for(int k=1; k<i; k++ ){
                // spaces
                System.out.print("  ");
             }
