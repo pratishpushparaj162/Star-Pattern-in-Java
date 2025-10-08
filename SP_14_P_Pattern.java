@@ -18,7 +18,7 @@ public class SP_14_P_Pattern {
             if(i == 1 || i == mid){
                 // stars (horizontal bars)
                 for(int k=1; k<=mid; k++){
-                    System.out.print("* ");
+                    System.out.print(" * ");
                 }
             } 
             else if (i > 1 && i < mid) {
