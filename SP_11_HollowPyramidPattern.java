@@ -39,16 +39,3 @@ public class SP_11_HollowPyramidPattern {
 }
 
 
-/*
-
-For n = 7 -->
-
-      * 
-     * *
-    *   *
-   *     *
-  *       *
- *         *
-* * * * * * * 
-
-*/
