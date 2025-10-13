@@ -18,15 +18,3 @@ public class SP_03_RightAngledNumberTriangle {
     }   
 }
 
-
-/*
-
-For n = 5 -->
-
-1
-1 2
-1 2 3
-1 2 3 4
-1 2 3 4 5
-
-*/
