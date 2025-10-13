@@ -27,15 +27,3 @@ public class SP_06_HollowRectangle {
 }
 
 
-/*
-
-For n1 = 6 & n2 = 8 -->
-
-* * * * * * * * 
-*             * 
-*             * 
-*             * 
-*             * 
-* * * * * * * * 
-
-*/
